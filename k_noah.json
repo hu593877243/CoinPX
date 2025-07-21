@@ -1,0 +1,72 @@
+{
+    "productName": "Transform Dot-Com Supply-Chains",
+    "productName_stirngs": "Environment",
+    "codes": "MGFUUS",
+    "day_percent": "4.31%",
+    "danwei_jinzhi": "1.960",
+    "product_type": "Equity-biased",
+    "product_office": "Open",
+    "product_starNum": "5",
+    "product_soucre": "60",
+    "product_soucre_string": "Excellent",
+    "radaDatas": [
+        35,
+        55,
+        65,
+        76,
+        88,
+        91
+    ],
+    "kdata_week": [
+        23,
+        43,
+        16,
+        32,
+        66,
+        46
+    ],
+    "kdata_month": [
+        37,
+        45,
+        13,
+        65,
+        53,
+        28
+    ],
+    "kdata_threemonth": [
+        12,
+        31,
+        33,
+        55,
+        28,
+        37
+    ],
+    "kdata_sixmonth": [
+        21,
+        31,
+        44,
+        16,
+        24,
+        28
+    ],
+    "manager_path": "https://img0.baidu.com/it/u=108216736,4263658296&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=675",
+    "manager_name": "Carrie Richard",
+    "manager_time": "2021-04-28 - today",
+    "manager_rate": "68.4%",
+    "manager_soure": "95",
+    "product_seltecd": false,
+    "product_type_simu": true,
+    "rengouDatas": [
+        "Fee Rate",
+        "1.5",
+        "1.2",
+        "0.6",
+        "1000"
+    ],
+    "searching_touh": false,
+    "k_type": 1,
+    "k_data": [
+        "https://www.noah666.com/",
+        "https://www.noah666.com/"
+    ]
+}
